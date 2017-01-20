@@ -1,0 +1,17 @@
+{
+  "name": "grunt_wraith_call",
+  "version": "1.0.0",
+  "description": "Grunt Methods for calling ThemeIsle Wraith Service when building with Travis",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Themeisle",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-http": "^2.2.0"
+  },
+  "wraithSlug": "zerif-lite"
+}
+git init
